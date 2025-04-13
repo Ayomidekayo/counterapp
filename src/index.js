@@ -1,4 +1,7 @@
 import React from 'react';
+
+//Objective the goalis to build a simple click counter application using react state.User should be able to increase or decrease the count
+//by clicking on the respetive buttons
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
